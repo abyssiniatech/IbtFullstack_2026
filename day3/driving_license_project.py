@@ -1,14 +1,11 @@
 # input to keyboard 
-
-name=input("Enter your name: ")
-age=int(input("Enter your age: "))
-education=int(input("Enter your education: "))
 # hints
 # age must be  at least 18 years and over
 # education must be at leat bachlor of degree and above
 # name must be a string  and not empty
-
-
+name=input("Enter your name: ")
+age=int(input("Enter your age: "))
+education=int(input("Enter your education: "))
 
 def driving_eligibility(age, education):
     try:
