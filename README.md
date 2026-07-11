@@ -22,25 +22,25 @@
 
 </div>
 
----
+
 
 # Core Skills
 
-- ✅ HTML5
-- ✅ CSS3
-- ✅ JavaScript (ES6+)
-- ✅ React
-- ✅ Next.js
-- ✅ Node.js
-- ✅ Express.js
-- ✅ PostgreSQL
-- ✅ REST API Development
-- ✅ Git & GitHub
-- ✅ Bash
-- ✅ Cloud Deployment
-- ✅ CI/CD Pipelines
-- ✅ Software Testing
-- ✅ Responsive Web Design
-- ✅ Problem Solving
+✅ HTML5
+  ✅ CSS3
+ ✅ JavaScript (ES6+)
+ ✅ React
+  ✅ Next.js
+ ✅ Node.js
+ ✅ Express.js
+ ✅ PostgreSQL
+  ✅ REST API Development
+  ✅ Git & GitHub
+  ✅ Bash
+  ✅ Cloud Deployment
+ ✅ CI/CD Pipelines
+  ✅ Software Testing
+ ✅ Responsive Web Design
+ ✅ Problem Solving
 
-- 
+  
