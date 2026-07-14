@@ -1,3 +1,21 @@
+# some exercis erelated today topics
+# 1. class is the blue print of objects
+
+class Human :
+    def __init__(self,info, id, gpa):
+        self.info=info
+        self.id = id
+        self.gpa = gpa
+    
+    def move(self):
+        print(f"{self.info} {self.id}:{self.gpa}")
+b=Human("welcome to my bootcamp",1,3.19)
+
+
+# 
+# excute the  class
+print(b.move())
+
 # class Account:
 #     def __init__(self, owner, bal):
 #         self.owner = owner
