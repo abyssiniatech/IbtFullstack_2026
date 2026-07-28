@@ -12,7 +12,7 @@ Building scalable, secure, and modern software solutions through continuous lear
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -47,12 +47,12 @@ I am **Surafel Mengist**, a Full-Stack Software Developer passionate about build
 
 My development journey combines:
 
-- 🎓 Computer Science background
-- 💻 Full-Stack Engineering
-- 🚀 Modern Web Technologies
-- 🧠 Data Structures & Algorithms
-- ☁️ Cloud & Deployment Practices
-- 🔐 Secure Software Development
+-  Computer Science background
+-  Full-Stack Engineering
+-  Modern Web Technologies
+-  Data Structures & Algorithms
+-  Cloud & Deployment Practices
+-  Secure Software Development
 
 
 ## My Engineering Focus
@@ -77,7 +77,7 @@ My development journey combines:
 
 ---
 
-# 🚀 Repository Mission
+#  Repository Mission
 
 The goal of this repository is to document my **180-day transformation journey from software learner to professional full-stack engineer**.
 
@@ -85,17 +85,17 @@ This is not only a collection of code.
 
 It represents:
 
-- 📚 Daily learning progress
-- 🏗 Real software projects
-- 🧪 Testing practices
-- 🔧 Engineering experiments
-- 📝 Technical documentation
-- 🌍 Preparation for global software engineering opportunities
+-  Daily learning progress
+-  Real software projects
+-  Testing practices
+-  Engineering experiments
+-  Technical documentation
+-  Preparation for global software engineering opportunities
 
 
 ---
 
-# 📌 Developer Profiles
+#  Developer Profiles
 
 | Platform | Profile |
 |---|---|
@@ -108,7 +108,7 @@ It represents:
 
 ---
 
-# ⭐ Why Follow This Journey?
+#  Why Follow This Journey?
 
 By following this repository, you can explore:
 
