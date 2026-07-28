@@ -5,13 +5,17 @@ from current_account import CurrentAccount
 class AccountFactory:
     """
     Factory Pattern
-    Creates different types of bank accounts.
+
+    Responsible for creating
+    different types of accounts.
     """
+
 
     @staticmethod
     def create(kind, owner, number, balance=0):
 
         kind = kind.lower()
+
 
         if kind == "savings":
 
@@ -21,6 +25,7 @@ class AccountFactory:
                 balance
             )
 
+
         elif kind == "current":
 
             return CurrentAccount(
@@ -29,9 +34,10 @@ class AccountFactory:
                 balance
             )
 
+
         else:
 
             raise ValueError(
-                "Unknown account type. "
+                "Invalid account type. "
                 "Use 'savings' or 'current'."
             )

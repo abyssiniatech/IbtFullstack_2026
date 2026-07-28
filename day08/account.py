@@ -3,85 +3,152 @@ from abc import ABC, abstractmethod
 
 class Account(ABC):
     """
-    Abstract base class for all bank accounts.
+    Abstract Base Class
+
+    Parent class for:
+    - SavingsAccount
+    - CurrentAccount
+
+    Features:
+    - Encapsulation
+    - Observer Pattern
+    - Transaction Stack
     """
 
+
     def __init__(self, owner, number, balance=0):
+
         self.owner = owner
+
         self.number = number
+
+
+        # Private balance (Encapsulation)
         self.__balance = balance
 
-        # Observer pattern
+
+        # Observer list
         self._observers = []
 
-        # Stack (list) for transaction history
+
+        # Stack for transaction history
         self.history = []
+
+
 
     @property
     def balance(self):
+
         return self.__balance
+
+
 
     def deposit(self, amount):
         """
-        Deposit money into the account.
+        Deposit money.
         """
+
+
         if amount <= 0:
-            raise ValueError("Amount must be positive.")
+
+            raise ValueError(
+                "Amount must be positive."
+            )
+
 
         self.__balance += amount
 
-        # Push transaction onto stack
-        self.history.append(f"Deposit: {amount:.2f} ETB")
 
-        print(f"Deposit Successful: {amount:.2f} ETB")
+        # Stack push
+        self.history.append(
+            f"Deposit: {amount:.2f} ETB"
+        )
 
+
+        print(
+            f"Deposit Successful: {amount:.2f} ETB"
+        )
+
+
+        # Notify observers
         self._notify(
             f"{self.owner} deposited {amount:.2f} ETB"
         )
 
+
+
     @abstractmethod
     def withdraw(self, amount):
         """
-        Withdraw money.
-        Must be implemented by subclasses.
+        Child classes must implement.
         """
+
         pass
+
+
 
     def subscribe(self, observer):
         """
-        Register an observer.
+        Add observer.
         """
+
         self._observers.append(observer)
+
+
 
     def _notify(self, message):
         """
         Notify all observers.
         """
+
         for observer in self._observers:
+
             observer.update(message)
+
+
 
     def show_history(self):
         """
-        Display transaction history.
-        Newest transaction appears first.
+        Display transactions.
         """
-        print("\nTransaction History")
+
+        print("\n===== Transaction History =====")
+
 
         if not self.history:
-            print("No transactions.")
+
+            print(
+                "No transactions."
+            )
+
             return
 
-        for transaction in reversed(self.history):
-            print(transaction)
+
+
+        for item in reversed(self.history):
+
+            print(item)
+
+
 
     def undo_last_transaction(self):
         """
-        Remove the most recent transaction from history.
-        (Demonstrates stack behavior.)
+        Stack pop operation.
         """
+
         if not self.history:
-            print("Nothing to undo.")
+
+            print(
+                "Nothing to undo."
+            )
+
             return
 
+
+
         last = self.history.pop()
-        print(f"Undo -> {last}")
+
+
+        print(
+            f"Undo -> {last}"
+        )
