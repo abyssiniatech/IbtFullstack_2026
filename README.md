@@ -1,4 +1,4 @@
-# 🚀 180 Days Full Stack Developer Journey
+#  180 Days Full Stack Developer Journey
 
 ![Full Stack Development](https://img.shields.io/badge/Full%20Stack-Developer-blue)
 ![Days](https://img.shields.io/badge/Learning%20Journey-180%20Days-green)
@@ -48,31 +48,7 @@ This is a **single master repository** containing multiple learning branches.
 Each branch represents a different stage/module of my learning journey.
 
 │
-├── main
-│
-├── phase-01-foundation
-│
-├── phase-02-git-linux-bash
-│
-├── phase-03-python-dsa
-│
-├── phase-04-html-css
-│
-├── phase-05-javascript
-│
-├── phase-06-react
-│
-├── phase-07-nextjs
-│
-├── phase-08-node-express
-│
-├── phase-09-postgresql
-│
-├── phase-10-testing
-│
-├── phase-11-deployment
-│
-└── phase-12-final-projects
+
 
 Each branch contains:
 
@@ -87,7 +63,7 @@ Each branch contains:
 
 ---
 
-# 🗓️ 180 Days Learning Roadmap
+# 180 Days Learning Roadmap
 
 
 # Phase 1: Software Development Foundation
