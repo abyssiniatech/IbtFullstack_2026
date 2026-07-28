@@ -1,135 +1,135 @@
-#  180 Days Full Stack Developer Journey
+---
 
-![Full Stack Development](https://img.shields.io/badge/Full%20Stack-Developer-blue)
-![Days](https://img.shields.io/badge/Learning%20Journey-180%20Days-green)
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
-![React](https://img.shields.io/badge/React-Frontend-blue)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+<div align="center">
 
-# 👨‍💻 180 Days Full Stack Software Development Journey
+# 👋 Hi, I'm Surafel Mengist
 
-Welcome to my **180 Days Full Stack Developer Journey** repository.
+### Full-Stack Software Developer | React | Next.js | TypeScript | .NET | Angular | PostgreSQL
 
-This repository documents my complete transformation into a professional Full Stack Developer through a structured 180-day learning roadmap.
+Building scalable, secure, and modern software solutions through continuous learning, engineering excellence, and real-world projects.
 
-The journey covers:
+</div>
 
-- Programming Fundamentals
-- Git & GitHub
-- Linux/Bash Command Line
-- Data Structures & Algorithms
-- Python Programming
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Node.js
-- Express.js
-- REST APIs
-- Databases
-- PostgreSQL
-- Authentication
-- Testing
-- Deployment
-- Cloud Technologies
-- Software Engineering Practices
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/surafel-mengist-3a254b261">
+<img src="https://img.shields.io/badge/LinkedIn-Surafel%20Mengist-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/abyssiniatech">
+<img src="https://img.shields.io/badge/GitHub-abyssiniatech-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://my-website-iota-olive-21.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Live%20Website-FF5733?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/abyssinatech/">
+<img src="https://img.shields.io/badge/LeetCode-abyssinatech-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.monkeytype.com/profile/abyssinatech">
+<img src="https://img.shields.io/badge/MonkeyType-Typing%20Profile-8B5CF6?style=for-the-badge" />
+</a>
+
+</div>
 
 
 ---
 
-# 🌟 About This Repository
+# 👨‍💻 About Me
 
-This is a **single master repository** containing multiple learning branches.
+I am **Surafel Mengist**, a Full-Stack Software Developer passionate about building modern, scalable, and impactful digital solutions.
 
-Each branch represents a different stage/module of my learning journey.
+My development journey combines:
 
-│
-
-
-Each branch contains:
-
-- Source code
-- Exercises
-- Notes
-- Projects
-- Documentation
-- Challenges
-- Solutions
+- 🎓 Computer Science background
+- 💻 Full-Stack Engineering
+- 🚀 Modern Web Technologies
+- 🧠 Data Structures & Algorithms
+- ☁️ Cloud & Deployment Practices
+- 🔐 Secure Software Development
 
 
----
+## My Engineering Focus
 
-# 180 Days Learning Roadmap
-
-
-# Phase 1: Software Development Foundation
-## Days 1 - 15
-
-Topics:
-
-- Computer Science Fundamentals
-- How Web Applications Work
-- Developer Environment Setup
-- VS Code Setup
-- Terminal Basics
-- File System
-- Problem Solving
+- Frontend Architecture
+- Backend API Development
+- Database Design
+- Software Testing
+- Clean Code Principles
+- System Design
+- Open Source Contribution
 
 
-Technologies:
-# Phase 1: Software Development Foundation
-## Days 1 - 15
+## Current Technology Focus
 
-Topics:
+<div align="center">
 
-- Computer Science Fundamentals
-- How Web Applications Work
-- Developer Environment Setup
-- VS Code Setup
-- Terminal Basics
-- File System
-- Problem Solving
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,express,dotnet,angular,postgresql,docker,git,github,linux" />
+
+</div>
 
 
 ---
 
-# Phase 2: Git & GitHub Mastery
-## Days 16 - 30
+# 🚀 Repository Mission
+
+The goal of this repository is to document my **180-day transformation journey from software learner to professional full-stack engineer**.
+
+This is not only a collection of code.
+
+It represents:
+
+- 📚 Daily learning progress
+- 🏗 Real software projects
+- 🧪 Testing practices
+- 🔧 Engineering experiments
+- 📝 Technical documentation
+- 🌍 Preparation for global software engineering opportunities
 
 
-Topics:
+---
 
-- Git installation
-- Git commands
-- Repository management
-- Branching strategies
-- Merge conflicts
-- Pull requests
-- Open source workflow
+# 📌 Developer Profiles
+
+| Platform | Profile |
+|---|---|
+| GitHub | https://github.com/abyssiniatech |
+| LinkedIn | https://www.linkedin.com/in/surafel-mengist-3a254b261 |
+| Portfolio | https://my-website-iota-olive-21.vercel.app/ |
+| LeetCode | https://leetcode.com/abyssinatech/ |
+| MonkeyType | https://www.monkeytype.com/profile/abyssinatech |
 
 
-Commands practiced:
+---
 
-```bash
-git init
+# ⭐ Why Follow This Journey?
 
-git add .
+By following this repository, you can explore:
 
-git commit -m "message"
+✅ Full-stack development progression  
+✅ Professional Git workflow  
+✅ Real project implementation  
+✅ Modern frontend engineering  
+✅ Backend API architecture  
+✅ Database design  
+✅ Deployment practices  
+✅ Continuous improvement mindset  
 
-git branch
 
-git checkout
+---
 
-git merge
+<div align="center">
 
-git push
+### "Great software is built one commit, one problem, and one improvement at a time."
 
-git pull
+⭐ Follow my GitHub journey and watch the evolution of a Full-Stack Developer.
 
-git clone
-  
+</div>
+
+---
