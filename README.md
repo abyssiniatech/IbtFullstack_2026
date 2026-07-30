@@ -2,7 +2,7 @@
 
 <img src="9e85f3ce-a765-419b-b7b2-b78ea61d80a9.png" width="180"/>
 
-# 🚀 IBT Fullstack Software Dev
+#  IBT Fullstack Software Dev
 
 ### Module 1: Programming Fundamentals & Computer Science Foundations
 
@@ -30,7 +30,7 @@ The module introduces:
 
 ---
 
-# 🔗 Connect With Me
+#  Connect With Me
 
 <div align="center">
 
@@ -59,7 +59,7 @@ The module introduces:
 
 ---
 
-# 📚 Module 1 Overview
+#  Module 1 Overview
 
 ## Programming Fundamentals & Computer Science Essentials
 
@@ -69,7 +69,7 @@ Throughout **Day 1 to Day 10**, the module covers essential programming concepts
 
 ---
 
-# 🗂️ Topics Covered
+#  Topics Covered
 
 ## 1. Git & Command Line Interface (CLI)
 
@@ -203,7 +203,7 @@ Applying computer science techniques:
 
 ---
 
-# 🛠️ Technologies & Tools
+#  Technologies & Tools
 
 <div align="center">
 
@@ -214,7 +214,7 @@ Applying computer science techniques:
 
 ---
 
-# 📅 Module 1 Learning Timeline
+#  Module 1 Learning Timeline
 
 | Days | Topics |
 |---|---|
@@ -232,22 +232,22 @@ Applying computer science techniques:
 
 ---
 
-# 🎯 Module Outcomes
+#  Module Outcomes
 
 After completing Module 1, I developed understanding of:
 
-✅ Programming fundamentals  
-✅ Python development skills  
-✅ Object-oriented programming concepts  
-✅ Data structures and algorithms  
-✅ Problem-solving strategies  
-✅ Git and professional workflows  
-✅ Core computer science foundations  
+ Programming fundamentals  
+ Python development skills  
+ Object-oriented programming concepts  
+ Data structures and algorithms  
+ Problem-solving strategies  
+ Git and professional workflows  
+ Core computer science foundations  
 
 
 ---
 
-# 👨‍💻 Developer Profiles
+#  Surafel Mengist
 
 | Platform | Profile |
 |---|---|
@@ -264,6 +264,6 @@ After completing Module 1, I developed understanding of:
 
 ## "Strong software engineers are built on strong fundamentals."
 
-⭐ IBT Fullstack Software Dev - Module 1
+ IBT Fullstack Software Dev - Module 1
 
 </div>
